@@ -1,0 +1,4 @@
+*.log 
+
+# 회원정보
+secrets.txt
